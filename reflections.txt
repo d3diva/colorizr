@@ -12,4 +12,20 @@ What was the most rewarding challenge you conquered?
 
 Where do you still have room to grow?
 
-    work more on metaprograming
+    work more on metaprograming and send
+
+    trying to understand why
+
+    def self.sample_colors
+      colors.each { |color| puts "This is " + "#{color}".send(color) }
+    end
+
+    def self.sample_colors
+      colors.each { |color| puts "This is " + "#{color}".red }
+    end
+
+    these work and not this
+
+    def self.sample_colors
+      colors.each { |color| puts "This is " + "#{color}".color }
+    end
