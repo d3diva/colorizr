@@ -1,7 +1,15 @@
 How does your gem take advantage of Ruby’s metaprogramming capabilities?
 
+  keeps the code DRY
+
 How long did you spend working on this project?
+
+    more than 5 days
 
 What was the most rewarding challenge you conquered?
 
+    making ruby gem
+
 Where do you still have room to grow?
+
+    work more on metaprograming

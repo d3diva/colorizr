@@ -2,7 +2,7 @@
 
   Colorizr lets you color your text in terminal
 
-## version
+## Version
 
   0.0.1
 
@@ -29,7 +29,7 @@
   sudo gem install colorizr
   ```
 
-  and do use "_require 'colorizr'_" in your code
+  and do use "_require colorizr_" in your code
 
 
 ## Usage
