@@ -13,16 +13,5 @@ class String
     end
   end
 
-  # returns all colors options
-  def self.colors
-    COLORS.keys
-  end
-
-  #prints sample output demonstrating all the colors
-  def self.sample_colors
-    colors.each { |color| puts "This is " + "#{color}".send(color) }
-  end
-
-  String.create_colors
 
 end
