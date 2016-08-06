@@ -10,15 +10,18 @@
 
   text can be printed in following colors
 
-    * red
-    * green
-    * yellow
-    * blue
-    * pink
-    * light_blue
-    * white
-    * light_grey
-    * black
+  * red
+  * green
+  * yellow
+  * blue
+  * pink
+  * light_blue
+  * white
+  * light_grey
+  * black
+
+
+
 
 ## Instalation
 
